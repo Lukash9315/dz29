@@ -43,6 +43,7 @@ time.printTime();
 let c = +prompt("Введіть кількість годин на яку хочете змінити час")
 time.addHours(c);
 time.printTime();
+alert(`Відповідь в консолі`)
 
 
 
